@@ -1,4 +1,4 @@
-<img src="security_cleaner.jpg" alt="Security Cleaner App"/>
+<img src="security_cleaner.jpg" alt="Security Cleaner App" width="500" height="500">
 
 # Security Cleaner
 
